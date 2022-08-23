@@ -2513,7 +2513,7 @@ body{
   border-top: 1px solid rgba(255,255,255,0.1);
 }
  .title-big{
-   font-size: 30px;
+   font-size: 27px;
    color: #0e4f4d ;
    font-weight: 300;
    padding: 16px 0 16px 0;
@@ -2534,6 +2534,12 @@ body{
 .color-price{
   color: #2C8A8D;
 }
+.price-service{
+  width: 40px;
+  float: right;
+  text-align: left;
+}
+
 .border-right-img{
   border-right: 1px solid rgba(255,255,255,0.1);
 }
