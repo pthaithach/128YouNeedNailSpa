@@ -2519,6 +2519,8 @@ body{
    padding: 16px 0 16px 0;
    letter-spacing: 4px;
  }
+
+
 .title-small, .title-small-list{
   font-size: 18px;
   color: #333 ;
@@ -2531,9 +2533,16 @@ body{
   font-weight: bold;
   padding-left: 14px;
 }
+.width-price{
+  width: 50px;
+}
 .color-price{
   color: #2C8A8D;
 }
+.menu-service{display: table-row-group;width: 100%;}
+.menu-service .title-small{display: table-row;width: 100%;}
+.menu-service .title-small .service{display: table-cell;width: 100%;}
+
 .price-service{
   width: 40px;
   float: right;
